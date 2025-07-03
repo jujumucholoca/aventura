@@ -14,8 +14,8 @@ button {
     color: white
     font-family: "Bai Jamjuree", sans-serif
 }
-.passp {
-    display: nome;
+.passo.ativo {
+    display: none;
 }
 .passo.ativo {
     display:block;
